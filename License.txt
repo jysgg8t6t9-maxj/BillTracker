@@ -1,0 +1,47 @@
+END-USER LICENCE AGREEMENT
+Cancl
+==================================================
+
+Thank you for your purchase. By downloading and using this product you agree
+to the terms below.
+
+1. PERSONAL USE RIGHTS
+   You are granted a non-exclusive, perpetual licence to use this application
+   for your own personal financial organisation, on any number of devices that
+   you personally own.
+
+2. CUSTOMISATION
+   You may change the colours, name, currency and text for your own personal use.
+
+3. COMMERCIAL USE
+   This product is licensed for personal use only. Commercial redistribution is
+   not permitted (see clause 4).
+
+4. REDISTRIBUTION RESTRICTIONS / NO RESALE OF SOURCE CODE
+   You may NOT resell, sublicense, share, publish, give away or redistribute the
+   files (index.html, styles.css, app.js) or any part of the source code, whether
+   modified or unmodified. The product may not be uploaded to any public
+   repository, marketplace or file-sharing service.
+
+5. COPYRIGHT
+   (c) Cancl. All rights reserved. All intellectual property in the
+   design, code and accompanying materials remains with the author.
+
+6. PRIVACY
+   This application stores all data locally on the user's device using browser
+   storage. It contains no tracking, no accounts and transmits no data. You are
+   responsible for backing up your own data using the in-app export feature.
+
+7. LIABILITY DISCLAIMER
+   This product is provided "as is", without warranty of any kind. It is a
+   personal organisation tool and does NOT constitute financial, tax, investment
+   or legal advice. The author accepts no liability for any loss or damage
+   arising from its use. Always consult a qualified professional for financial
+   decisions.
+
+8. REFUND POLICY
+   [SELLER REFUND POLICY PLACEHOLDER — e.g. "As this is an instant digital
+   download, all sales are final. If you have any trouble, message me and I will
+   help."]
+
+Version 1.0
